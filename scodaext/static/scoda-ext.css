@@ -30,7 +30,7 @@ span.badges {
     color: transparent;
     }
 label {
-  display: inline-block;
+  display: inline;
   min-width: 90px;
   margin: 0px;
   width: auto;
